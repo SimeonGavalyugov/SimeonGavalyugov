@@ -10,4 +10,4 @@ SimeonGavalyugov/SimeonGavalyugov is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://app.daily.dev/sgavalyugov"><img src="https://github.com/SimeonGavalyugov/SimeonGavalyugov/master/devcard.svg" width="400" alt="Simeon Gavalyugov's Dev Card"/></a>
+<a href="https://app.daily.dev/sgavalyugov"><img src="https://github.com/SimeonGavalyugov/SimeonGavalyugov/blob/main/devcard.svg" width="400" alt="Simeon Gavalyugov's Dev Card"/></a>
